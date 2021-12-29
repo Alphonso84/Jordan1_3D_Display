@@ -15,7 +15,7 @@ public class RotateSneaker : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-
+        //Rotate on press of r key
         if (Input.GetKey("r"))
             {
                 transform.Rotate(editRotation * Time.deltaTime);
