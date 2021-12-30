@@ -16,11 +16,11 @@ public class RotateSneaker : MonoBehaviour
     void LateUpdate()
     {
         //Rotate on press of r key
-        if (Input.GetKey("r"))
-            {
+        //if (Input.GetKey("r"))
+        //    {
                 transform.Rotate(editRotation * Time.deltaTime);
-                Debug.Log("Update");
-            }
+              
+           // }
         
 
     }
