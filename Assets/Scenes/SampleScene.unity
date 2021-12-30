@@ -196,7 +196,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 165e271a72b4745d398c65c2c22c4a60,
         type: 3}
       propertyPath: m_Name
-      value: baked_mesh1
+      value: AJ1_Shoe
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 165e271a72b4745d398c65c2c22c4a60,
         type: 3}
