@@ -18,7 +18,7 @@ public class RotateSneaker : MonoBehaviour
         //Rotate on press of r key
         //if (Input.GetKey("r"))
         //    {
-                transform.Rotate(editRotation * Time.deltaTime);
+                //transform.Rotate(editRotation * Time.deltaTime);
               
            //AJ1 }
         
